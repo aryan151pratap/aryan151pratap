@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 - 💻 **Full-Stack Web Developer** – React.js, Node.js, Express.js, MongoDB  
 - 🤖 **IoT Innovator** – ESP32, Arduino, MicroPython, Sensors & Actuators  
 - 🧠 **AI/ML Learner** – Image Classification, Object Detection, NLP  
-- 🎓 2nd-year BTech CSE student, constantly exploring new tech horizons  
+- 🎓 3nd-year BTech CSE student, constantly exploring new tech horizons  
 - 🌟 Love creating projects that are both **practical** and **creative**
 
 ---
