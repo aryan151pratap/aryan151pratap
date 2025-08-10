@@ -34,30 +34,24 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 ---
 
 ## 📂 My Projects
+<p align="center">
+  <a href="https://portfolio-1-5ucf.onrender.com/profile/6852fe7ba25e6853d5cf8a8c" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://imagemark-studio-1.onrender.com" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/ImageMark%20Studio-0A66C2?style=for-the-badge&logo=google-photos&logoColor=white" alt="ImageMark Studio">
+  </a>
+  <a href="https://dashboard-1-qlfz.onrender.com" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/MongoDB%20Dashboard-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Dashboard">
+  </a>
+  <a href="https://esp-32-socket-1.onrender.com" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/ESP32%20Controller-FF6F00?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Controller">
+  </a>
+  <a href="https://fitpanda-1.onrender.com" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/🏋️‍♂️_FitPanda-FF4081?style=for-the-badge" alt="FitPanda">
+  </a>
 
-<details>
-  <summary>🚀 <strong>Portfolio</strong></summary>
-  <p>My personal portfolio showcasing skills, achievements, and projects.</p>
-  🔗 <a href="https://portfolio-1-5ucf.onrender.com" target="_blank">Visit Project</a>
-</details>
-
-<details>
-  <summary>🖼️ <strong>ImageMark Studio</strong></summary>
-  <p>A tool for image annotation and marking, built for AI dataset preparation.</p>
-  🔗 <a href="https://imagemark-studio-1.onrender.com" target="_blank">Visit Project</a>
-</details>
-
-<details>
-  <summary>📊 <strong>MongoDB Dashboard</strong></summary>
-  <p>An advanced MongoDB monitoring dashboard with real-time stats and CLI commands.</p>
-  🔗 <a href="https://dashboard-1-qlfz.onrender.com" target="_blank">Visit Project</a>
-</details>
-
-<details>
-  <summary>🔌 <strong>ESP32 Controller</strong></summary>
-  <p>Web-based terminal to control ESP32 and monitor real-time sensor data via TCP sockets.</p>
-  🔗 <a href="https://esp-32-socket-1.onrender.com" target="_blank">Visit Project</a>
-</details>
+</p>
 
 ---
 
