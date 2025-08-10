@@ -23,6 +23,16 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 
 ---
 
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Aryan_Pratap/)
+
+<p align="center">
+<!--   <img src="https://leetcard.jacoblin.cool/Aryan_Pratap?theme=dark&ext=contest" alt="LeetCode Stats" height="280"> -->
+  &nbsp;&nbsp;
+  <img src="https://leetcard.jacoblin.cool/Aryan_Pratap?theme=dark&ext=heatmap" alt="LeetCode Heatmap" height="280">
+</p>
+
+---
+
 ## 📂 My Projects
 
 <details>
