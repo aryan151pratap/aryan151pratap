@@ -71,8 +71,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 | [📊 MongoDB Dashboard](https://dashboard-1-qlfz.onrender.com) | Real-time MongoDB monitoring dashboard with CLI commands. | Node.js, Express.js, MongoDB, Socket.io | - Live DB statistics <br> - CLI-style query execution <br> - Visual charts & analytics |
 | [🔌 ESP32 Controller](https://esp-32-socket-1.onrender.com) | Web-based terminal to control ESP32 & monitor sensors. | Node.js, Socket.io, ESP32 (MicroPython) | - Real-time ESP32 control <br> - Live sensor monitoring <br> - Lightweight fast interface |
 
-
-
 ---
 
 ### 🔹 Smart Door IoT System
