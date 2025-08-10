@@ -35,23 +35,12 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 
 ## 📂 My Projects — 🚀 Live Demos
 
-<p align="center">
-  <a href="https://portfolio-1-5ucf.onrender.com/profile/6852fe7ba25e6853d5cf8a8c" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://imagemark-studio-1.onrender.com" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/ImageMark%20Studio-0A66C2?style=for-the-badge&logo=google-photos&logoColor=white" alt="ImageMark Studio">
-  </a>
-  <a href="https://dashboard-1-qlfz.onrender.com" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/MongoDB%20Dashboard-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Dashboard">
-  </a>
-  <a href="https://esp-32-socket-1.onrender.com" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/ESP32%20Controller-FF6F00?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Controller">
-  </a>
-  <a href="https://fitpanda-1.onrender.com" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/🏋️‍♂️_FitPanda-FF4081?style=for-the-badge" alt="FitPanda">
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://portfolio-1-5ucf.onrender.com/profile/6852fe7ba25e6853d5cf8a8c)  
+[![ImageMark Studio](https://img.shields.io/badge/ImageMark%20Studio-0A66C2?logo=google-photos&logoColor=white)](https://imagemark-studio-1.onrender.com)  
+[![MongoDB Dashboard](https://img.shields.io/badge/MongoDB%20Dashboard-4DB33D?logo=mongodb&logoColor=white)](https://dashboard-1-qlfz.onrender.com)  
+[![ESP32 Controller](https://img.shields.io/badge/ESP32%20Controller-FF6F00?logo=espressif&logoColor=white)](https://esp-32-socket-1.onrender.com)  
+[![🏋️‍♂️ FitPanda](https://img.shields.io/badge/%F0%9F%8F%8B%EF%B8%8F_FitPanda-FF4081?style=flat&logoColor=white)](https://fitpanda-1.onrender.com)
+
 
 ---
 
