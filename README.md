@@ -33,7 +33,8 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 
 ---
 
-## 📂 My Projects
+## 📂 My Projects — 🚀 Live Demos
+
 <p align="center">
   <a href="https://portfolio-1-5ucf.onrender.com/profile/6852fe7ba25e6853d5cf8a8c" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
@@ -50,7 +51,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
   <a href="https://fitpanda-1.onrender.com" style="margin: 10px;">
     <img src="https://img.shields.io/badge/🏋️‍♂️_FitPanda-FF4081?style=for-the-badge" alt="FitPanda">
   </a>
-
 </p>
 
 ---
