@@ -60,7 +60,7 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 
 | Project | Description | Tech Stack | Key Features |
 |---------|-------------|------------|--------------|
-| [📝 Daily Post](https://daily-post-five.vercel.app) | AI-powered platform for creating, managing, and suggesting posts with MongoDB and LLM API integration. | Node.js, Express, MongoDB Atlas, AI Agent | - AI-generated post suggestions <br> - Full CRUD for posts <br> - Clean responsive UI <br> - LLM API integration for smart content |
+| [📝 Daily Post](https://daily-post-five.vercel.app) | AI-powered platform for creating, managing, and suggesting posts with MongoDB and AI Agent integration. | Node.js, Express, MongoDB Atlas, AI Agent | - AI-generated post suggestions via AI Agent <br> - Full CRUD for posts <br> - Clean responsive UI <br> - LLM API integration for smart content |
 | [💼 Portfolio](https://portfolio-1-5ucf.onrender.com) | Personal portfolio showcasing skills, achievements, and projects. | React.js, Tailwind CSS, Node.js | - Modern responsive design <br> - Smooth animations and clean UI <br> - Links to all major works |
 | [🖼️ ImageMark Studio](https://imagemark-studio-1.onrender.com) | Image annotation tool for AI dataset preparation. | React.js, Node.js, MongoDB | - Upload & annotate datasets <br> - Export in multiple formats <br> - Fast workflow for ML projects |
 | [📊 MongoDB Dashboard](https://dashboard-1-qlfz.onrender.com) | Real-time MongoDB monitoring dashboard with CLI commands. | Node.js, Express.js, MongoDB, Socket.io | - Live DB statistics <br> - CLI-style query execution <br> - Visual charts & analytics |
