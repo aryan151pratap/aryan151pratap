@@ -5,6 +5,7 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 ---
 
 ## 🚀 About Me
+- 🤖 **Agentic AI** – Build smart agents using LangChain, RAG, and tools
 - 💻 **Full-Stack Web Developer** – React.js, Node.js, Express.js, MongoDB  
 - 🤖 **IoT Innovator** – ESP32, Arduino, MicroPython, Sensors & Actuators  
 - 🧠 **AI/ML Learner** – Image Classification, Object Detection, NLP  
