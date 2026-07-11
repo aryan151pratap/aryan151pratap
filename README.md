@@ -49,7 +49,7 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer, AI & IoT Enthus
 ## 🛠 Tech Stack
 **Frontend:** React.js, Vite, EJS, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express.js, Flask  
-**Database:** MongoDB, Mongoose  
+**Database:** MySQL, MongoDB  
 **IoT:** ESP32, ESP8266, Arduino, MicroPython  
 **AI/ML:** Python, OpenCV, NumPy, pandas, TensorFlow/Keras  
 **Other Tools:** Socket.io, WebSockets, Git, Vercel, Render
